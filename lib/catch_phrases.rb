@@ -10,3 +10,4 @@ mario
 def toadstool
   puts status
 end
+toadstool
