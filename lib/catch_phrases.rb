@@ -12,3 +12,8 @@ def toadstool
   puts status
 end
 toadstool
+
+def any_phrase
+  puts phrase
+end
+any_phrase
